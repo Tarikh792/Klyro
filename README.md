@@ -101,6 +101,8 @@ BS Artificial Intelligence — SZABIST Islamabad
 
 [GitHub Profile](https://github.com/Tarikh792)
 
+[Watch the Klyro demo](./Klyro%20Demo%20.mp4)
+
 ---
 
 *Built to explore practical AI application engineering, LLM integration, and modern Python development.*
