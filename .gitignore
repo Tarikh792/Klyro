@@ -1,0 +1,10 @@
+# Secret API keys
+.streamlit/secrets.toml
+.env
+
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
